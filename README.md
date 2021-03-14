@@ -1,3 +1,6 @@
+## This is a copy of the original Human Made project.
+
+
 <table width="100%">
 	<tr>
 		<td align="left" colspan="2">
@@ -36,7 +39,7 @@ This app is licensed under the MIT or later.
 ## Credits
 Created by Human Made for a Week of REST Conference.
 
-Written by [Ryan McCue](https://github.com/rmccue) & [Joe Hoyle](https://github.com/joehoyle). 
+Written by [Ryan McCue](https://github.com/rmccue) & [Joe Hoyle](https://github.com/joehoyle).
 
 ---
 
