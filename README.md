@@ -1,5 +1,7 @@
 ## This is a copy of the original Human Made project.
 
+Just making some simple changes to ensure GH for Atom is setup correctly!
+
 
 <table width="100%">
 	<tr>
